@@ -12,7 +12,6 @@ This project is a web application designed to help teachers assign books to stud
 ## Technologies Used
 
 - **Frontend**: React, TypeScript, Material-UI
-- **Backend**: Node.js, Express, GraphQL, MongoDB
 
 ## Installation
 
